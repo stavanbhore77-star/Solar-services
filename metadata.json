@@ -1,0 +1,8 @@
+{
+  "name": "Solara — Modern Solar Energy Solutions & Installation",
+  "description": "Expert solar panel design, battery storage, and turnkey installation for homes and commercial facilities. Engineered for maximum efficiency and 25+ years of clean energy savings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
